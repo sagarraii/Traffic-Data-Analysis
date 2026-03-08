@@ -196,26 +196,6 @@ Python
 
 ---
 
-# 📁 Project Structure
-
-Traffic-Prediction-ML
-│
-├── dataset
-│   ├── Traffic.csv
-│   └── TrafficTwoMonth.csv
-│
-├── notebook
-│   └── traffic_analysis.ipynb
-│
-├── models
-│   └── traffic_model.pkl
-│
-├── images
-│
-└── README.md
-
----
-
 # 🚀 Future Improvements
 
 * Deploy model using **Flask or FastAPI**
@@ -231,8 +211,8 @@ Traffic-Prediction-ML
 
 Machine Learning Engineer focused on building **end-to-end ML systems, predictive models, and data-driven applications.**
 
-GitHub: https://github.com/yourusername
-LinkedIn: https://linkedin.com/in/yourprofile
+🔗 GitHub: https://github.com/sagarraii <br>
+🔗 LinkedIn: https://www.linkedin.com/in/mr-raiii/
 
 ---
 
